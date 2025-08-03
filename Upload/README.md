@@ -28,7 +28,7 @@ Add a timestamp to all sent and received text messages with a variety of configu
 ## Reference
 ### Source Code
 - [Github Repository](https://github.com/GuysWeForgotDre/TimestampTests/) -- This mod is open source under the `MIT license`. I encourage you to learn from it and / or use it in your own creations.
-  - *Note: The `Timestamp-custom.dll` in this repo has a function to trigger an incoming text from all 3 suppliers when you press *`F5`*. This is a fix for messages cleared (e.g. from a broken mod) to order from suppliers.*
+  - *Note: The `Timestamp-custom.dll` in this repo has a function to trigger an incoming text from all 3 suppliers when you press *`F5`*. This is a fix for messages cleared (e.g. from a broken mod) to order from suppliers. It remains on 1.0.0 and is only needed for that function.*
 ### Mod Links
 [Thunderstore](https://thunderstore.io/schedule-i/p/Dre/Timestamp_Texts) | [Nexus Mods](https://www.nexusmods.com/schedule1/mods/1129)
 ### Contact

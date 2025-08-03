@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timestamp", "Timestamp.csproj", "{CC60DF14-D512-4596-A069-DB9075541120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Il2Cpp|Any CPU = Il2Cpp|Any CPU
+		Il2Cpp|x64 = Il2Cpp|x64
+		Mono|Any CPU = Mono|Any CPU
+		Mono|x64 = Mono|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC60DF14-D512-4596-A069-DB9075541120}.Il2Cpp|Any CPU.ActiveCfg = Il2Cpp|Any CPU
+		{CC60DF14-D512-4596-A069-DB9075541120}.Il2Cpp|Any CPU.Build.0 = Il2Cpp|Any CPU
+		{CC60DF14-D512-4596-A069-DB9075541120}.Il2Cpp|x64.ActiveCfg = Il2Cpp|x64
+		{CC60DF14-D512-4596-A069-DB9075541120}.Il2Cpp|x64.Build.0 = Il2Cpp|x64
+		{CC60DF14-D512-4596-A069-DB9075541120}.Mono|Any CPU.ActiveCfg = Mono|Any CPU
+		{CC60DF14-D512-4596-A069-DB9075541120}.Mono|Any CPU.Build.0 = Mono|Any CPU
+		{CC60DF14-D512-4596-A069-DB9075541120}.Mono|x64.ActiveCfg = Mono|x64
+		{CC60DF14-D512-4596-A069-DB9075541120}.Mono|x64.Build.0 = Mono|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBC6B2E4-C069-4B98-A527-BC78EB474953}
+	EndGlobalSection
+EndGlobal
