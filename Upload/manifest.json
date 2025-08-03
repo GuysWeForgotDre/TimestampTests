@@ -1,9 +1,0 @@
-{
-  "name": "Timestamp_Texts",
-  "version_number": "1.1.0",
-  "website_url": "https://github.com/GuysWeForgotDre/TimestampTests",
-  "description": "Adds timestamp and day label to text messages in Schedule One",
-  "dependencies": [
-    "LavaGang-MelonLoader-0.7.0"
-  ]
-}
